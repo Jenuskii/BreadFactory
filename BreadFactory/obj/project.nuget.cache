@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kJIAyvn3N8dn6tqxgehJxf/6VcOfGQANREzF07Umwr1GR0+YDrsA8Z/SJhZCrQTjpFK1cEXQae2iMFlAqSeHg==",
+  "success": true,
+  "projectFilePath": "D:\\_Jenuskii\\repos\\BreadFactory\\BreadFactory\\BreadFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goodb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\goodb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

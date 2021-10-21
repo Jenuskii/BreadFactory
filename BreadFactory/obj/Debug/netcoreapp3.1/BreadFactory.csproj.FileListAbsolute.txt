@@ -1,0 +1,16 @@
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\bin\Debug\netcoreapp3.1\BreadFactory.exe
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\bin\Debug\netcoreapp3.1\BreadFactory.deps.json
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\bin\Debug\netcoreapp3.1\BreadFactory.runtimeconfig.json
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\bin\Debug\netcoreapp3.1\BreadFactory.runtimeconfig.dev.json
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\bin\Debug\netcoreapp3.1\BreadFactory.dll
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\bin\Debug\netcoreapp3.1\BreadFactory.pdb
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.csproj.AssemblyReference.cache
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.AssemblyInfoInputs.cache
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.AssemblyInfo.cs
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.csproj.CoreCompileInputs.cache
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.csproj.CopyComplete
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.dll
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.pdb
+D:\_Jenuskii\repos\BreadFactory\BreadFactory\obj\Debug\netcoreapp3.1\BreadFactory.genruntimeconfig.cache
