@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Newtonsoft.Json.Linq;
 
 namespace BreadFactory
 {
@@ -7,25 +8,39 @@ namespace BreadFactory
     {
         static void Main(string[] args)
         {
-            Recipe cream = new Recipe("cream", 100, 100, 200);
-            Recipe sugar = new Recipe("sugar", 100, 50, 200);
-            Recipe butter = new Recipe("butter", 100, 100, 200);
+            Bread Cream = new Cream(200);
+            Bread Sugar = new Sugar(200);
+            Bread Butter = new Butter(50);
 
-            List<Bread> BreadData = new List<Bread>();
-            //Bread Cream = new Bread(cream);
-            //Bread Sugar = new Bread(sugar);
-            //Bread Butter = new Bread(butter);
+            //List<string> list = new List<string>();
 
-            BreadData.Add(new Bread(cream));
-            BreadData.Add(new Bread(sugar));
-            BreadData.Add(new Bread(butter));
+            //list.Add(Cream.Recipe.ToString());
+            //list.Add(Sugar.Recipe.ToString());
+            //list.Add(Butter.Recipe.ToString());
 
 
-            foreach (Bread EachBread in BreadData)
-            {
-                EachBread.Show();
-            }
 
+
+            //for (int i = 0; i < list.Count; i++)
+            //{
+            //    Console.WriteLine(list[i]);
+
+            //}
+            //Console.WriteLine(list.ToString());
+
+
+
+            List<string> list = new List<string>();
+            list.Add(Cream.Recipe.ToString());
+            list.Add(Sugar.Recipe.ToString());
+            list.Add(Butter.Recipe.ToString());
+            Console.WriteLine(list);
+            string joinedNames = String.Join(", ", list.ToArray());
+            Console.WriteLine("[" + joinedNames + "]");
+            //for (int i = 0; i < list.Count; i++)
+            //{
+            //    Console.WriteLine(list[i]);
+            //}
         }
     }
 }
